@@ -63,8 +63,13 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 |  | [Generalizing the hough transform to detect arbitrary shapes](https://www.sciencedirect.com/science/article/pii/0031320381900091) | PR 1981 |  |
 
 ---
+# 3. Hybrid Approaches
+| Name | Paper | Source | Resource |
+| --- | --- | --- | --- |
+| LSDNet | [LSDNet: Trainable Modification of LSD Algorithm for Real-Time Line Segment Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9761231) | IST 2022 |  |
 
-# 3. Datasets
+
+# 4. Datasets
 
 - [Wireframe Dataset](https://github.com/huangkuns/wireframe)
 - [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
