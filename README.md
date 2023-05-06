@@ -8,8 +8,9 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 - [Deep-Learning Based Approaches](#1-Deep-Learning-Based-Approaches)
   - [Line Segment Detection](#11-Line-Segment-Detection)
   - [Wireframe Parsing](#12-Wireframe-Parsing)
-- [Traditional approaches](#2-Traditional-Approaches)
-- [Datasets](#3-Datasets)
+- [Traditional Approaches](#2-Traditional-Approaches)
+- [Hybrid Approaches](#3-Hybrid-Approaches)
+- [Datasets](#4-Datasets)
 
 # 1. Deep Learning-Based Approaches
 
@@ -54,7 +55,6 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | PLSD | [PLSD: A Perceptually Accurate Line Segment Detection Approach](https://ieeexplore.ieee.org/document/9018038) | Access 2020 |  |
 | MCMLSD | [MCMLSD: A Probabilistic Algorithm and Evaluation Framework for Line Segment Detection](https://arxiv.org/abs/2001.01788) | arXiv 2020 |  |
 | Linelet | [A Novel Linelet-based Representation for Line Segment Detection](https://ieeexplore.ieee.org/document/7926451) | TPAMI 2017 | [[Code]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) |
-| MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](https://ieeexplore.ieee.org/document/8100103) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
 | CannyLines | [Cannylines: A parameter-free line segment detector](https://ieeexplore.ieee.org/document/7350850) | ICIP 2015 | [[Project]](https://cvrs.whu.edu.cn/cannylines/) |
 |  | [Accurate and robust line segment extraction using minimum entropy with hough transform](https://ieeexplore.ieee.org/document/7000594) | TIP 2015 |  |
 |  | [Lifting 3D manhattan lines from a single image](https://ieeexplore.ieee.org/document/6751171) | ICCV 2013 |  |
@@ -66,9 +66,10 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 # 3. Hybrid Approaches
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
+| MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](https://ieeexplore.ieee.org/document/8100103) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
+|Deep hough| [Deep hough-transform line priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)  |
 | LSDNet | [LSDNet: Trainable Modification of LSD Algorithm for Real-Time Line Segment Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9761231) | IEEE Access 2022 | [[Code]](https://github.com/iitpvisionlab/LSDNet)  |
-|Deeplsd  | [Deeplsd: Line segment detection and refinement with deep
-image gradients](https://arxiv.org/abs/2212.07766) | CVPR 2023 | [[Code]](https://github.com/cvg/DeepLSD)  |
+| Deeplsd  | [Deeplsd: Line segment detection and refinement with deep image gradients](https://arxiv.org/abs/2212.07766) | CVPR 2023 | [[Code]](https://github.com/cvg/DeepLSD)  |
 
 
 # 4. Datasets
