@@ -66,7 +66,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 # 3. Hybrid Approaches
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
-| LSDNet | [LSDNet: Trainable Modification of LSD Algorithm for Real-Time Line Segment Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9761231) | IST 2022 |  |
+| LSDNet | [LSDNet: Trainable Modification of LSD Algorithm for Real-Time Line Segment Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9761231) | IST 2022 | [[Code]](https://github.com/iitpvisionlab/LSDNet)  |
 
 
 # 4. Datasets
