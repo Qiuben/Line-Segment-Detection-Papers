@@ -4,20 +4,20 @@
 A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 # Outline
--[image-based methods]
+-[image-based methods](#Image-Based-Methods)
   - [Deep-Learning Based Approaches](#1-Deep-Learning-Based-Approaches)
     - [Line Segment Detection](#11-Line-Segment-Detection)
     - [Wireframe Parsing](#12-Wireframe-Parsing)
   - [Traditional Approaches](#2-Traditional-Approaches)
   - [Hybrid Approaches](#3-Hybrid-Approaches)
   - - [Datasets](#4-Datasets)
-- [Event-based methods]
+- [Event-based methods](#Event-Based-Methods)
    
 
+# Image-based Methods
+## 1. Deep Learning-Based Approaches
 
-# 1. Deep Learning-Based Approaches
-
-## 1.1 Line Segment Detection
+### 1.1 Line Segment Detection
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
@@ -74,6 +74,9 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 |Deep hough| [Deep hough-transform line priors](https://arxiv.org/abs/2007.09493) | ECCV 2020 | [[Code]](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors)  |
 | LSDNet | [LSDNet: Trainable Modification of LSD Algorithm for Real-Time Line Segment Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9761231) | IEEE Access 2022 | [[Code]](https://github.com/iitpvisionlab/LSDNet)  |
 | Deeplsd  | [Deeplsd: Line segment detection and refinement with deep image gradients](https://arxiv.org/abs/2212.07766) | CVPR 2023 | [[Code]](https://github.com/cvg/DeepLSD)  |
+
+# Event-based Methods
+
 
 
 # 4. Datasets
