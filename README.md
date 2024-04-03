@@ -4,14 +4,14 @@
 A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 # Outline
--[image-based methods](#Image-Based-Methods)
+[image-based methods](#Image-Based-Methods)
   - [Deep-Learning Based Approaches](#1-Deep-Learning-Based-Approaches)
     - [Line Segment Detection](#11-Line-Segment-Detection)
     - [Wireframe Parsing](#12-Wireframe-Parsing)
   - [Traditional Approaches](#2-Traditional-Approaches)
   - [Hybrid Approaches](#3-Hybrid-Approaches)
   - - [Datasets](#4-Datasets)
-- [Event-based methods](#Event-Based-Methods)
+[Event-based methods](#Event-Based-Methods)
    
 
 # Image-based Methods
