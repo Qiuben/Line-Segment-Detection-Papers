@@ -10,7 +10,8 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
     - [Wireframe Parsing](#12-Wireframe-Parsing)
   - [Traditional Approaches](#2-Traditional-Approaches)
   - [Hybrid Approaches](#3-Hybrid-Approaches)
-  - - [Datasets](#4-Datasets)
+  - [Datasets](#4-Datasets)
+      
 [Event-based methods](#Event-Based-Methods)
    
 
@@ -84,6 +85,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 # Event-based Methods
 | Name | Paper | Source | Resource |
-| ---  | Flow-Based Line Detection and Segmentation for Neuromorphic Vision Sensors| ICPR,2022 | --- |
+| ---  | --- | --- | --- |
+| ---  | Flow-Based Line Detection and Segmentation for Neuromorphic Vision Sensors | ICPR,2022 | --- |
 |ELiSeD| ELiSeD – An Event-Based Line Segment Detector | EBCCSP,2016 | [Code]](http://jaerproject.org) |
 
