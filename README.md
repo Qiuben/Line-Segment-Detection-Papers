@@ -32,7 +32,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | AFM | [Learning Attraction Field Representation for Robust Line Segment Detection](https://ieeexplore.ieee.org/document/8954315) | CVPR 2019 | [[Code]](https://github.com/cherubicXN/afm_cvpr2019) |
 | Sem-LSD | [Sem-LSD: A Learning-based Semantic Line Segment Detector](https://arxiv.org/abs/1909.06591v2) | arXiv 2019 | [[Code]](https://github.com/SunLoveSheep/Sem-LSD) |
  
-## 1.2 Wireframe Parsing
+### 1.2 Wireframe Parsing
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 ---
 
-# 2. Traditional Approaches
+## 2. Traditional Approaches
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 |  | [Generalizing the hough transform to detect arbitrary shapes](https://www.sciencedirect.com/science/article/pii/0031320381900091) | PR 1981 |  |
 
 ---
-# 3. Hybrid Approaches
+## 3. Hybrid Approaches
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
 | MCMLSD | [MCMLSD: A Dynamic Programming Approach to Line Segment Detection](https://ieeexplore.ieee.org/document/8100103) | CVPR 2017 | [[Code]](http://www.elderlab.yorku.ca/resources/) |
@@ -75,12 +75,15 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 | LSDNet | [LSDNet: Trainable Modification of LSD Algorithm for Real-Time Line Segment Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9761231) | IEEE Access 2022 | [[Code]](https://github.com/iitpvisionlab/LSDNet)  |
 | Deeplsd  | [Deeplsd: Line segment detection and refinement with deep image gradients](https://arxiv.org/abs/2212.07766) | CVPR 2023 | [[Code]](https://github.com/cvg/DeepLSD)  |
 
-# Event-based Methods
 
-
-
-# 4. Datasets
+## 4. Datasets
 
 - [Wireframe Dataset](https://github.com/huangkuns/wireframe)
 - [YorkUrbanDB (York Urban Line Segment Database)](http://www.elderlab.yorku.ca/resources/york-urban-line-segment-database-information/)
-- [SS360 Dataset (spherical image dataset)](https://drive.google.com/drive/folders/1K-pGDDPrXkCmWCcoyYvURZ86ZzA5O6E_?usp=sharing)
+- [SS360 Dataset (spherical image dataset)](https://drive.google.com/drive/folders/1K-pGDDPrXkCmWCcoyYvURZ86ZzA5O6E_?usp=sharing)# Event-based Methods
+
+# Event-based Methods
+| Name | Paper | Source | Resource |
+| ---  | Flow-Based Line Detection and Segmentation for Neuromorphic Vision Sensors| ICPR,2022 | --- |
+|ELiSeD| ELiSeD – An Event-Based Line Segment Detector | EBCCSP,2016 | [Code]](http://jaerproject.org) |
+
