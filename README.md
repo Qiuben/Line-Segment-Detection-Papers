@@ -18,6 +18,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
+| ELSM  | [ELSM: Evidence-Based Line Segment Merging](https://nailahamidpucit.github.io/ELSM/assets/ELSM.pdf)| ICASSP 2024 |The Computer Journal, 2024 |
 | PCLSD | [Prediction-Correction Line Segment Detetcion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447671) | ICASSP 2024 | |
 | M-LSD | [Towards Real-time and Light-weight Line Segment Detection](https://arxiv.org/abs/2106.00186) | AAAI 2022 | [[Code]](https://github.com/navervision/mlsd) |
 | ELSD | [ELSD: Efficient Line Segment Detector and Descriptor](https://ieeexplore.ieee.org/document/9710129) | ICCV 2021 | [[Code]](https://github.com/Tinyyyy/ELSD) |
