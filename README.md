@@ -55,6 +55,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
+|  | [A bio-inspired approach to line segment detection utilizing orientation-selective neurons](https://www.sciencedirect.com/science/article/pii/S0165168425000647) | Signal Processing 2025 |  |
 |  | [Wide Line Segments Detection in Grey-Level Images via Guided Scale Space Radon Transform](https://ieeexplore.ieee.org/document/10924563) | IPAS 2025 |  |
 | PSLine | [Property Similarity Line Segment Detector](https://ieeexplore.ieee.org/document/9651397) | IST 2021 |  |
 | ELSED | [ELSED: Enhanced Line SEgment Drawing](https://arxiv.org/abs/2108.03144) | arXiv 2021 | [[Code]](https://github.com/iago-suarez/ELSED) |
