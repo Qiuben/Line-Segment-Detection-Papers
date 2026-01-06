@@ -8,7 +8,7 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
   - [Deep-Learning Based Approaches](#1-Deep-Learning-Based-Approaches)
     - [Line Segment Detection](#11-Line-Segment-Detection)
     - [Wireframe Parsing](#12-Wireframe-Parsing)
-  - [Traditional Approaches](#2-Traditional-Approaches)
+  - [Hand-crafted features Based Approaches](#2-Traditional-Approaches)
   - [Hybrid Approaches](#3-Hybrid-Approaches)
   - [Datasets](#4-Datasets)
       
@@ -51,10 +51,11 @@ A collection of line segment detection papers (*a.k.a.* wireframe parsing).
 
 ---
 
-## 2. Traditional Approaches
+## 2. Hand-crafted features Based Approaches
 
 | Name | Paper | Source | Resource |
 | --- | --- | --- | --- |
+|  | [Wide Line Segments Detection in Grey-Level Images via Guided Scale Space Radon Transform](https://ieeexplore.ieee.org/document/10924563) | IPAS 2025 |  |
 | PSLine | [Property Similarity Line Segment Detector](https://ieeexplore.ieee.org/document/9651397) | IST 2021 |  |
 | ELSED | [ELSED: Enhanced Line SEgment Drawing](https://arxiv.org/abs/2108.03144) | arXiv 2021 | [[Code]](https://github.com/iago-suarez/ELSED) |
 | PLSD | [PLSD: A Perceptually Accurate Line Segment Detection Approach](https://ieeexplore.ieee.org/document/9018038) | Access 2020 |  |
